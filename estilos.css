@@ -1,0 +1,32 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,1,215,1) 35%, rgba(0,212,255,1) 100%);
+    background-color: red;
+}
+h1 {
+    font-family: 'Bangers',cursive;
+    color: blue;
+}
+h2 {
+    color: pink;
+    font-family: 'Pacifico',cursive;
+    
+    
+}
+p{
+    color:rgb(255, 251, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+i {
+    color: white;
+    font-style: normal;
+}
+code {
+    color: rgb(0, 227, 243);
+    font-size: large;
+    font-style: normal;
+    font-family:sans-serif
+}
+span{
+    font-family: fantasy;
+}
